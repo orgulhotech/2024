@@ -1,5 +1,7 @@
 ## Resumo das Palestras da Orgulho Tech Conference:
 
+Criado a partir da transcrição dos áudios das palestras, e inserido como prompts no Google Gemini:
+
 *1. Nathalie Souza - "Rolê de sexta-feira, deployando suas ideias":*
 
 * Nathalie, travesti, jornalista e desenvolvedora, incentiva a colocar ideias em prática, mesmo que inicialmente sejam projetos pessoais ou MVPs. 
